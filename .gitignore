@@ -1,0 +1,5 @@
+color/
+corn_or_not/
+planr_dataset_2/
+*.pth
+__pycache__/
